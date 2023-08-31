@@ -182,6 +182,34 @@ http://sv4k.live:8080/play/gbxr3_mnGQtOr_VzJPFWlC9p5tLDih2QnagGdHyV71Y/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/afpm5b8otls3vhxa3dvbt/Paramount.png?rlkey=lhkklb4kp13nf3nso6kl0x1wh&dl=0" group-title="⭐️ Cine Premium",CINE| Paramount Channel
 http://sv4k.live:8080/play/gbxr3_mnGQtOr_VzJPFWlIFVLcDYT1WNyE-MPVhvuOw/ts
 
+#EXTINF:-1 tvg-id="STOONHD" tvg-name="KIDS | CARTOON NETWORK" tvg-logo="http://descargas.podzone.net/logos/-cartoon-network.png" group-title="⭐️ Infantiles",INF| CARTOON NETWORK
+http://sdmx.vip:8080/Enrique123/Enrique123/10980
+#EXTINF:-1 tvg-id="TNCSTEN" tvg-name="KIDS | Tooncast" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutC_Caxt-F1P9n8tpParhZiEkSeUcLshzVg&usqp=CAU" group-title="⭐️ Infantiles",INF| Tooncast
+http://sdmx.vip:8080/Enrique123/Enrique123/10976
+#EXTINF:-1 tvg-id="NCKANZ" tvg-name="KIDS | Nickelodeon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVn-WlznbyD88VwS6mAgmBkRSCQ_hD2-v9g&usqp=CAU" group-title="⭐️ Infantiles",INF| Nickelodeon
+http://sdmx.vip:8080/Enrique123/Enrique123/10973
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="NIÑOS | Disney Jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSToaBRgehSgq1nbHkxKT86bqMANW2o9LUwSQ&usqp=CAU " group-title="⭐️ Infantiles",INF| disney jr
+http://sdmx.vip:8080/Enrique123/Enrique123/10972
+#EXTINF:-1 tvg-id="DISN" tvg-name="KIDS | Disney Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciCyrjS_Qe7hYYPNP6M0JtrAUBwAUcJJWGg&usqp=CAU" group-title="⭐️ Infantiles",INF| Disney Channel
+http://sdmx.vip:8080/Enrique123/Enrique123/87108
+#EXTINF:-1 tvg-id="DKNCHD" tvg-name="NIÑOS | Discovery Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Z-HyjoMKkBEbU-sBz7pebeS6St4gHpoLpw&usqp =CAU" group-title="⭐️ Infantiles",INF| Discovery kids
+http://sdmx.vip:8080/Enrique123/Enrique123/10966
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="KIDS | Cartoncito - Boomerang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRstZ2x6jfH3q_nE3RLcPapFUdfKwj5uu_80Q&usqp=CAU" group-title="⭐️ Infantiles",INF| Cartoncito 
+http://sdmx.vip:8080/Enrique123/Enrique123/10970
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | Baby First" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpgKH9kQv82NrlNieyLxyVZuvFxpCK9ozxnQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Baby First
+http://sdmx.vip:8080/Enrique123/Enrique123/154076
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwlnOfHKa22NHgAvunN29yo4uz0geioR9hg&usqp=CAU" group-title="⭐️ Infantiles",INF24/7 | teen Titans 
+http://sdmx.vip:8080/Enrique123/Enrique123/2090896
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3WxQqgk7N6bNPqlGe_V1qA_ExVKWOYlX7w&usqp=CAU" group-title="⭐️ Infantiles",INF24/7 | looney tunes
+http://sdmx.vip:8080/Enrique123/Enrique123/2090899
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpRKAcU-EmaNLlw69wt9IBsyzqOZwG0aivXQ&usqp=CAU" group-title="⭐️ Infantiles",INF24/7 | escandalosos
+http://sdmx.vip:8080/Enrique123/Enrique123/2090886
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPF1tzLMOKRkk9Ie_B8fghxdIEkwkxUsJmw&usqp=CAU" group-title="⭐️ Infantiles",INF24/7 | el pájaro loco
+http://sdmx.vip:8080/Enrique123/Enrique123/2090884
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJHfnBy9cbu-q94ecSAnHv2aaZy6WcOeIpoQ&usqp=CAU" group-title="⭐️ Infantiles",INF24/7 | bob esponja
+http://sdmx.vip:8080/Enrique123/Enrique123/2090873
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBClnSWODS0_LAkt_1HFL4pUtIPQXvw0PMA&usqp=CAU" group-title="⭐️ Infantiles",INF24/7 | scooby doo
+http://sdmx.vip:8080/Enrique123/Enrique123/2090914
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a9db5b_824d02d7bb3f4fa69cc131d14b25b391~mv2.jpg" group-title="⭐️Estrenos 2023⭐️",HASTA EL ULTIMO HOMBRE
 https://pc-35.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4f36e86d4d91a084280e8de660ab2750/EP.0.1.v1.1677296522.720.m3u8
