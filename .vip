@@ -138,7 +138,38 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507611&
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 08
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ
 
-
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/a978d278271a96dd0c6ac2451df123b7.png" group-title="⭐️ Cine Premium",CINE|Dhe 
+http://45.166.92.22:58001/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/aa3f230ed1923f753b834eb112cc484f.jpeg" group-title="⭐️ Cine Premium",CINE|Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="⭐️ Cine Premium",CINE|AMC HD 
+http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/104
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="⭐️ Cine Premium",CINE|HBO Family 
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10877
+#EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg" group-title="⭐️ Cine Premium",CINE|HBO Mundi 
+http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/142
+#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="⭐️ Cine Premium",CINE|HBO Pop 
+http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/147
+#EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="⭐️ Cine Premium",CINE|HBO Signature 
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10881
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="⭐️ Cine Premium",CINE|HBO Extreme 
+http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/156
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg" group-title="⭐️ Cine Premium",CINE|Cinemax East 
+http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/178
+#EXTINF:-1 tvg-id=""  tvg-logo="http://ceoapps.org/logos/universalcinema.png" group-title="⭐️ Cine Premium",CINE|Universal Cinema 
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2081448
+#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="http://boxdigital.xyz:8080/images/2565ef919dd558390045543fd48c80b1.png"group-title="⭐️ Cine Premium",CINE|Universal 
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2092575
+#EXTINF:-1 tvg-id=""  tvg-logo="http://boxdigital.xyz:8080/images/6a033ba0a95431f597adfd0e53e1c7e7.png" group-title="⭐️ Cine Premium",CINE|Universal Comedy 
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2081444
+#EXTINF:-1 tvg-id="" tvg-name=" Universal Crime" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0e6994985c32c700d463eadc0506161f.png" group-title="⭐️ Cine Premium",CINE|Universal Crime
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/291222
+#EXTINF:-1 tvg-id="" tvg-name=" Universal Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/e73a219ec196c9bb4ce328f9b79be7f8.png" group-title="⭐️ Cine Premium",CINE|Universal Premiere
+http://tv.onplas.xyz:8080/c7audi847v/3b5rShYoDH/144838
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/2e67a715926cb3b55108e791a1209c36.png" group-title="⭐️ Cine Premium",CINE|Universal Reality
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/291217
+#EXTINF:-1 tvg-id="paramountchannel.mx"  tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="⭐️ Cine Premium",CINE|Paramount Channel HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10867
 #EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO 
 http://sv4k.live:8080/play/gbxr3_mnGQtOr_VzJPFWlCni0iGMo4inKNGI13lrm70/ts
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
