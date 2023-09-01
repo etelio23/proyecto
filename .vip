@@ -140,9 +140,7 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&
 
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/a978d278271a96dd0c6ac2451df123b7.png" group-title="⭐️ Cine Premium",CINE|Dhe 
 http://45.166.92.22:58001/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="http://boxdigital.xyz:8080/images/aa3f230ed1923f753b834eb112cc484f.jpeg" group-title="⭐️ Cine Premium",CINE|Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
-#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="⭐️ Cine Premium",CINE|AMC HD 
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="⭐️ Cine Premium",CINE|AMC 
 http://premiumultra.xyz:8080/7b8x9z5d/5f5f6g6s/104
 #EXTINF:-1 tvg-id="hbo-family.mx" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="⭐️ Cine Premium",CINE|HBO Family 
 http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10877
