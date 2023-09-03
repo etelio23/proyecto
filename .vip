@@ -1,4 +1,4 @@
-
+y
 #EXTINF:-1 tvg-id="" tvg-name="Law & Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4PVclr9GNLrK-RLq8o9ZBUjLIUXfT50plzA&usqp=CAU" group-title="⭐️ Tv Religiosos",Law & Crime
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/293796
 #EXTINF:-1 tvg-id="" tvg-name="WPXI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4PVclr9GNLrK-RLq8o9ZBUjLIUXfT50plzA&usqp=CAU" group-title="⭐️ Tv Religiosos",WPXI
@@ -262,8 +262,448 @@ http://sdmx.vip:8080/Enrique123/Enrique123/2090873
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBClnSWODS0_LAkt_1HFL4pUtIPQXvw0PMA&usqp=CAU" group-title="⭐️ Infantiles",INF24/7 | scooby doo
 http://sdmx.vip:8080/Enrique123/Enrique123/2090914
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR F1 
-http://stream2.storemas.pro:8080/live/Altamar/Mar2023-63835p/60351.ts?token=HhtfWEVRFQ5BAFoAAFBRVVMBU1UDB1MFBQcJCAgEBFNSXAYNU19VDVpDTxdAQBdSV1s5DVZADwNTUQQAHBcUQgBLaFBSGw0WUVlVAwIWSRVCXwsBEFgEA1pRBgQHB1AISRtHUFIbDRZRU1EABBZJFVNOEgFADFRZPAZUR1lWBBNfV0JVWhUVWw0+B1BeVQtTFAxEVBBOF1wQEhMLXkANXUkbVVBCS1ZABkNZFwUCUg8UGkQHXRdbQREbEwsSYDITSRtSQUJcWUcKDg0XCRYRRBQaRA1BPUdQEBZDVFFYBENHAxUJFBUVWQIZPFZcWgtSVUIPC1wRFw9BURMdElgOXwxNWEtpSV5QQVtBBwICUAMUSw==
+#EXTINF:-1 tvg-id="" tvg-name="CINE CLASICO" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE CLASICO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31509
+#EXTINF:-1 tvg-id="" tvg-name="SERIES RETRO" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SERIES RETRO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31510
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLAS DE ACCIÓN" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ESTRELLAS DE ACCIÓN
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31511
+#EXTINF:-1 tvg-id="" tvg-name="THRILLERS" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", THRILLERS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31512
+#EXTINF:-1 tvg-id="" tvg-name="SCI-FI" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SCI-FI
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31513
+#EXTINF:-1 tvg-id="" tvg-name="SCI-FI 2" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SCI-FI 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31514
+#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE COMEDIA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31515
+#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 2" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE COMEDIA 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31516
+#EXTINF:-1 tvg-id="" tvg-name="CINE ROMANCE" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE ROMANCE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31517
+#EXTINF:-1 tvg-id="" tvg-name="CINE ROMÁNTICO" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE ROMÁNTICO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31518
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIERE" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE PREMIERE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31519
+#EXTINF:-1 tvg-id="" tvg-name="CINE ADRENALINA" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE ADRENALINA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31520
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ PRESENTA" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", PARAMOUNT+ PRESENTA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31521
+#EXTINF:-1 tvg-id="" tvg-name="CINE" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31522
+#EXTINF:-1 tvg-id="" tvg-name="CINE DRAMA" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE DRAMA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31523
+#EXTINF:-1 tvg-id="" tvg-name="CINE DRAMA 2" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE DRAMA 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31524
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE LATINO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31525
+#EXTINF:-1 tvg-id="" tvg-name="SEPTIMO ARTE" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SEPTIMO ARTE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31526
+#EXTINF:-1 tvg-id="" tvg-name="CINE ESTELAR" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE ESTELAR
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31527
+#EXTINF:-1 tvg-id="" tvg-name="CINE ESTELAR 2" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE ESTELAR 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31528
+#EXTINF:-1 tvg-id="" tvg-name="CINE ESTELAR 3" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE ESTELAR 3
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31529
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIA" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE FAMILIA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31530
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACCIÓN" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE ACCIÓN
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31531
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACCIÓN 2" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE ACCIÓN 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31532
+#EXTINF:-1 tvg-id="" tvg-name="CINE SUSPENSO" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE SUSPENSO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31533
+#EXTINF:-1 tvg-id="" tvg-name="CINE TERROR" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE TERROR
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31534
+#EXTINF:-1 tvg-id="" tvg-name="CINE TERROR 2" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE TERROR 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31535
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SERIES
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31536
+#EXTINF:-1 tvg-id="" tvg-name="SERIES 2" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SERIES 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31537
+#EXTINF:-1 tvg-id="" tvg-name="SERIES 3" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SERIES 3
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31538
+#EXTINF:-1 tvg-id="" tvg-name="SERIES COMEDIA" tvg-logo="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SERIES COMEDIA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31539
+#EXTINF:-1 tvg-id="" tvg-name="SERIES LATINAS" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SERIES LATINAS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31540
+#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD" tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", THE WALKING DEAD
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31541
+#EXTINF:-1 tvg-id="" tvg-name="MUTANTE X" tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MUTANTE X
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31542
+#EXTINF:-1 tvg-id="" tvg-name="LA CHICA INVISIBLE" tvg-logo="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", LA CHICA INVISIBLE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31543
+#EXTINF:-1 tvg-id="" tvg-name="ANDROMEDA" tvg-logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ANDROMEDA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31544
+#EXTINF:-1 tvg-id="" tvg-name="LOS ASESINATOS DE MIDSOMER" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", LOS ASESINATOS DE MIDSOMER
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31545
+#EXTINF:-1 tvg-id="" tvg-name="NUESTRA VISION" tvg-logo="http://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NUESTRA VISION
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31546
+#EXTINF:-1 tvg-id="" tvg-name="CINE JAJA" tvg-logo="http://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE JAJA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31547
+#EXTINF:-1 tvg-id="" tvg-name="CINE XOXO" tvg-logo="http://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CINE XOXO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31548
+#EXTINF:-1 tvg-id="" tvg-name="NASHVILLE" tvg-logo="http://images.pluto.tv/channels/604928030aa8a70007c1f213/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NASHVILLE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31549
+#EXTINF:-1 tvg-id="" tvg-name="CSI" tvg-logo="http://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CSI
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31550
+#EXTINF:-1 tvg-id="" tvg-name="VIAJE A LAS ESTRELLAS" tvg-logo="http://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", VIAJE A LAS ESTRELLAS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31551
+#EXTINF:-1 tvg-id="" tvg-name="NARCOS" tvg-logo="https://images.pluto.tv/channels/5f7b47f12a45590007821749/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NARCOS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31552
+#EXTINF:-1 tvg-id="" tvg-name="NARCOS 2" tvg-logo="http://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NARCOS 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31553
+#EXTINF:-1 tvg-id="" tvg-name="SIN TETAS NO HAY PARAISO" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SIN TETAS NO HAY PARAISO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31554
+#EXTINF:-1 tvg-id="" tvg-name="TOKUSATO" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TOKUSATO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31555
+#EXTINF:-1 tvg-id="" tvg-name="DOUG EL CAZARRECOMPENZA" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", DOUG EL CAZARRECOMPENZA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31556
+#EXTINF:-1 tvg-id="" tvg-name="ANA Y LOS 7" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ANA Y LOS 7
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31557
+#EXTINF:-1 tvg-id="" tvg-name="CURRO JIMENEZ" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CURRO JIMENEZ
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31558
+#EXTINF:-1 tvg-id="" tvg-name="FÚTBOL PARA FANS" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", FÚTBOL PARA FANS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31559
+#EXTINF:-1 tvg-id="" tvg-name="DEGRASSI" tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", DEGRASSI
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31560
+#EXTINF:-1 tvg-id="" tvg-name="ARCHIVOS FORENSES" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ARCHIVOS FORENSES
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31561
+#EXTINF:-1 tvg-id="" tvg-name="ARCHIVOS FBI" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ARCHIVOS FBI
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31562
+#EXTINF:-1 tvg-id="" tvg-name="THE NEWS DETECTIVES" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", THE NEWS DETECTIVES
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31563
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIAS DE ULTRATUMBA" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", HISTORIAS DE ULTRATUMBA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31564
+#EXTINF:-1 tvg-id="" tvg-name="MISTERIOS SIN RESOLVER" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MISTERIOS SIN RESOLVER
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31565
+#EXTINF:-1 tvg-id="" tvg-name="MISTERIOS MEDICOS" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MISTERIOS MEDICOS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31566
+#EXTINF:-1 tvg-id="" tvg-name="MISTERIOS" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MISTERIOS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31567
+#EXTINF:-1 tvg-id="" tvg-name="HELL'S KITCHEN" tvg-logo="http://images.pluto.tv/channels/60492b2794116800073e32dc/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", HELL'S KITCHEN
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31568
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGA" tvg-logo="http://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", INVESTIGA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31569
+#EXTINF:-1 tvg-id="" tvg-name="CRIMENES IMPERFECTOS" tvg-logo="http://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CRIMENES IMPERFECTOS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31570
+#EXTINF:-1 tvg-id="" tvg-name="EMERGENCIAS 911" tvg-logo="http://images.pluto.tv/channels/60492a1e6361250007679665/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", EMERGENCIAS 911
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31571
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO PARANORMAL" tvg-logo="http://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MUNDO PARANORMAL
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31572
+#EXTINF:-1 tvg-id="" tvg-name="MISTERIO SIN RESOLVER 2" tvg-logo="http://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MISTERIO SIN RESOLVER 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31573
+#EXTINF:-1 tvg-id="" tvg-name="EL CONQUISTADOR DEL FIN" tvg-logo="https://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", EL CONQUISTADOR DEL FIN
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31574
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO GEEK" tvg-logo="http://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MUNDO GEEK
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31575
+#EXTINF:-1 tvg-id="" tvg-name="ESCAPE PERFECTO" tvg-logo="http://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ESCAPE PERFECTO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31576
+#EXTINF:-1 tvg-id="" tvg-name="NOSEY ESCANDALOS" tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NOSEY ESCANDALOS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31577
+#EXTINF:-1 tvg-id="" tvg-name="NOSEY CASOS" tvg-logo="https://images.pluto.tv/channels/5f9b005b66d1950007857df6/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NOSEY CASOS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31578
+#EXTINF:-1 tvg-id="" tvg-name="MINUTOS PARA GANAR" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MINUTOS PARA GANAR
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31579
+#EXTINF:-1 tvg-id="" tvg-name="NOSEY ESCANDALOS 2" tvg-logo="http://images.pluto.tv/channels/60492ee6375a3900079a158c/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NOSEY ESCANDALOS 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31580
+#EXTINF:-1 tvg-id="" tvg-name="NOSEY CASOS 2" tvg-logo="http://images.pluto.tv/channels/60492f6c4a4f730007ff76c5/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NOSEY CASOS 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31581
+#EXTINF:-1 tvg-id="" tvg-name="EMPEÑOS A LO BESTIA" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", EMPEÑOS A LO BESTIA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31582
+#EXTINF:-1 tvg-id="" tvg-name="LAS REGLAS DEL JUEGO" tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", LAS REGLAS DEL JUEGO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31583
+#EXTINF:-1 tvg-id="" tvg-name="TV MADE" tvg-logo="https://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV MADE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31584
+#EXTINF:-1 tvg-id="" tvg-name="VAYA SEMANITA" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", VAYA SEMANITA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31585
+#EXTINF:-1 tvg-id="" tvg-name="TV VIDA REAL" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV VIDA REAL
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31586
+#EXTINF:-1 tvg-id="" tvg-name="TV VIDA REAL 2" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV VIDA REAL 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31587
+#EXTINF:-1 tvg-id="" tvg-name="REAL LIFE" tvg-logo="https://images.pluto.tv/channels/5f1abdceddf6a20007f8ccd2/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", REAL LIFE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31588
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDO REAL" tvg-logo="https://images.pluto.tv/channels/5f1acdfda84c970007e750b5/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV MUNDO REAL
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31589
+#EXTINF:-1 tvg-id="" tvg-name="MI OBSESION FAVORITA" tvg-logo="https://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MI OBSESION FAVORITA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31590
+#EXTINF:-1 tvg-id="" tvg-name="TV AVENTURA" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV AVENTURA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31591
+#EXTINF:-1 tvg-id="" tvg-name="SPIKE EXTREMO" tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SPIKE EXTREMO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31592
+#EXTINF:-1 tvg-id="" tvg-name="MTV CLASSICS" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV CLASSICS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31593
+#EXTINF:-1 tvg-id="" tvg-name="MTV PRANKS" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV PRANKS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31594
+#EXTINF:-1 tvg-id="" tvg-name="MTV PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV PLUTO TV
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31595
+#EXTINF:-1 tvg-id="" tvg-name="MTV LATINO" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV LATINO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31596
+#EXTINF:-1 tvg-id="" tvg-name="MTV ORIGINALS" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV ORIGINALS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31597
+#EXTINF:-1 tvg-id="" tvg-name="MTV ORIGINALS 2" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV ORIGINALS 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31598
+#EXTINF:-1 tvg-id="" tvg-name="MTV CRIBS" tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV CRIBS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31599
+#EXTINF:-1 tvg-id="" tvg-name="MTV CRIBS 2" tvg-logo="hhttps://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV CRIBS 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31600
+#EXTINF:-1 tvg-id="" tvg-name="MTV CATFISH" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV CATFISH
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31601
+#EXTINF:-1 tvg-id="" tvg-name="MTV CATFISH 2" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV CATFISH 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31602
+#EXTINF:-1 tvg-id="" tvg-name="MTV DATING" tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV DATING
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31603
+#EXTINF:-1 tvg-id="" tvg-name="MTV EMBARAZADA A LOS 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV EMBARAZADA A LOS 16
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31604
+#EXTINF:-1 tvg-id="" tvg-name="BEBESITO BUM Y SUS AMIGOS" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", BEBESITO BUM Y SUS AMIGOS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31605
+#EXTINF:-1 tvg-id="" tvg-name="MTV ANIMACIONES" tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV ANIMACIONES
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31606
+#EXTINF:-1 tvg-id="" tvg-name="ANIME CLASICO" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ANIME CLASICO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31607
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", BOB ESPONJA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31608
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA PLUS" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", BOB ESPONJA PLUS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31609
+#EXTINF:-1 tvg-id="" tvg-name="TV ANIME" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV ANIME
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31610
+#EXTINF:-1 tvg-id="" tvg-name="TV ANIME ACCIÓN" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV ANIME ACCIÓN
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31611
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH!" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", YU-GI-OH!
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31612
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH 2" tvg-logo="http://images.pluto.tv/channels/604930bc28b24d0007e0e171/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", YU-GI-OH 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31613
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NARUTO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31614
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO 2" tvg-logo="http://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NARUTO 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31615
+#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ONE PIECE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31616
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR. LATINO" tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NICK JR. LATINO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31617
+#EXTINF:-1 tvg-id="" tvg-name="NICK CLÁSICO" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NICK CLÁSICO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31618
+#EXTINF:-1 tvg-id="" tvg-name="NICK LATINO" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NICK LATINO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31619
+#EXTINF:-1 tvg-id="" tvg-name="NICK TEEN" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NICK TEEN
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31620
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAKIDS" tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ANIMAKIDS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31621
+#EXTINF:-1 tvg-id="" tvg-name="BARNEY" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", BARNEY
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31622
+#EXTINF:-1 tvg-id="" tvg-name="BABAR" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", BABAR
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31623
+#EXTINF:-1 tvg-id="" tvg-name="TV JUNIOR" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV JUNIOR
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31624
+#EXTINF:-1 tvg-id="" tvg-name="TV JUNIOR 2" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV JUNIOR 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31625
+#EXTINF:-1 tvg-id="" tvg-name="BABYFIRST" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", BABYFIRST
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31626
+#EXTINF:-1 tvg-id="" tvg-name="EL REINO INFANTIL" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", EL REINO INFANTIL
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31627
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV KIDS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31628
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS 2" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV KIDS 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31629
+#EXTINF:-1 tvg-id="" tvg-name="ACTION KIDS" tvg-logo="https://images.pluto.tv/channels/60218c2a32f9c40007c2f7cc/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ACTION KIDS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31630
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR. CLUB" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NICK JR. CLUB
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31631
+#EXTINF:-1 tvg-id="" tvg-name="TV TEEN" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV TEEN
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31632
+#EXTINF:-1 tvg-id="" tvg-name="TV TEEN STARS" tvg-logo="https://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV TEEN STARS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31633
+#EXTINF:-1 tvg-id="" tvg-name="KENAN & KEL" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", KENAN & KEL
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31634
+#EXTINF:-1 tvg-id="" tvg-name="BIG TIME RUSH" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", BIG TIME RUSH
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31635
+#EXTINF:-1 tvg-id="" tvg-name="RUGRATS CRECIDOS" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", RUGRATS CRECIDOS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31636
+#EXTINF:-1 tvg-id="" tvg-name="LAS PISTAS DE BLUE" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", LAS PISTAS DE BLUE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31637
+#EXTINF:-1 tvg-id="" tvg-name="LAS PISTAS DE BLUE 2" tvg-logo="https://images.pluto.tv/channels/5f1aa82c150b2500077733d7/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", LAS PISTAS DE BLUE 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31638
+#EXTINF:-1 tvg-id="" tvg-name="GO DIEGO GO" tvg-logo="https://images.pluto.tv/channels/5f1aa89d42a0500007363ea3/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", GO DIEGO GO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31639
+#EXTINF:-1 tvg-id="" tvg-name="ESR 24X7 NETWORK" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ESR 24X7 NETWORK
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31640
+#EXTINF:-1 tvg-id="" tvg-name="TV GAMER" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV GAMER
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31641
+#EXTINF:-1 tvg-id="" tvg-name="TV VIAJES" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV VIAJES
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31642
+#EXTINF:-1 tvg-id="" tvg-name="TV CIENCIA" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV CIENCIA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31643
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDO" tvg-logo="https://images.pluto.tv/channels/5d8d103f031154a4172d262b/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV MUNDO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31644
+#EXTINF:-1 tvg-id="" tvg-name="TV HISTORIA" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV HISTORIA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31645
+#EXTINF:-1 tvg-id="" tvg-name="TV NATURALEZA" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV NATURALEZA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31646
+#EXTINF:-1 tvg-id="" tvg-name="TV NATURALEZA 2" tvg-logo="https://images.pluto.tv/channels/5d8d10ce06a9665fe54bf74a/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV NATURALEZA 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31647
+#EXTINF:-1 tvg-id="" tvg-name="TV ANIMALES" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV ANIMALES
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31648
+#EXTINF:-1 tvg-id="" tvg-name="TV ANIMALES 2" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV ANIMALES 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31649
+#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="http://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CBS REALITY
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31650
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO VIAJERO" tvg-logo="http://images.pluto.tv/channels/60511efd71ec430007f50d97/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MUNDO VIAJERO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31651
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE NOSOTRAS" tvg-logo="http://images.pluto.tv/channels/60492c67f4c48700075b5d37/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ENTRE NOSOTRAS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31652
+#EXTINF:-1 tvg-id="" tvg-name="LATIN ANGELS" tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", LATIN ANGELS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31653
+#EXTINF:-1 tvg-id="" tvg-name="TV HUMOR" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV HUMOR
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31654
+#EXTINF:-1 tvg-id="" tvg-name="SONY COMEDIAS" tvg-logo="http://images.pluto.tv/channels/60492bb931054f00073c0b4e/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SONY COMEDIAS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31655
+#EXTINF:-1 tvg-id="" tvg-name="LOUPE ARTE + MUSICA" tvg-logo="https://images.pluto.tv/channels/5ffcc38adbc38100073511f2/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", LOUPE ARTE + MUSICA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31656
+#EXTINF:-1 tvg-id="" tvg-name="TV COCINA" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV COCINA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31657
+#EXTINF:-1 tvg-id="" tvg-name="FOODIES" tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", FOODIES
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31658
+#EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MASTER CHEF
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31659
+#EXTINF:-1 tvg-id="" tvg-name="TV COCINA 2" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV COCINA 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31660
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", COMEDY CENTRAL
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31661
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL LATINO" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", COMEDY CENTRAL LATINO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31662
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIA MADE IN SPAIN" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", COMEDIA MADE IN SPAIN
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31663
+#EXTINF:-1 tvg-id="" tvg-name="FAILARMY" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", FAILARMY
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31664
+#EXTINF:-1 tvg-id="" tvg-name="TROL" tvg-logo="https://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TROL
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31665
+#EXTINF:-1 tvg-id="" tvg-name="PET COLLECTIVE" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", PET COLLECTIVE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31666
+#EXTINF:-1 tvg-id="" tvg-name="OH MY PET" tvg-logo="https://images.pluto.tv/channels/5f2acdab16f5b3000721ae2c/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", OH MY PET
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31667
+#EXTINF:-1 tvg-id="" tvg-name="PEOPLE ARE AWESONE" tvg-logo="https://images.pluto.tv/channels/5ebac65911406400078b8993/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", PEOPLE ARE AWESONE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31668
+#EXTINF:-1 tvg-id="" tvg-name="TASTEMADE" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TASTEMADE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31669
+#EXTINF:-1 tvg-id="" tvg-name="TV HOGAR" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV HOGAR
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31670
+#EXTINF:-1 tvg-id="" tvg-name="FASHIONBOX" tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", FASHIONBOX
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31671
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVELAS" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV NOVELAS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31672
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO TELENOVELAS" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TELEMUNDO TELENOVELAS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31673
+#EXTINF:-1 tvg-id="" tvg-name="AMANTES DEL ROMANCE" tvg-logo="https://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", AMANTES DEL ROMANCE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31674
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS CON LA ABUELA" tvg-logo="https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NOVELAS CON LA ABUELA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31675
+#EXTINF:-1 tvg-id="" tvg-name="BADASS NOVELAS" tvg-logo="https://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", BADASS NOVELAS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31676
+#EXTINF:-1 tvg-id="" tvg-name="Vaya semanita" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", Vaya semanita
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31677
+#EXTINF:-1 tvg-id="" tvg-name="CRIMENES IMPERFECTOS" tvg-logo="http://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CRIMENES IMPERFECTOS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31678
+#EXTINF:-1 tvg-id="" tvg-name="EMERGENCIAS 911" tvg-logo="http://images.pluto.tv/channels/60492a1e6361250007679665/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", EMERGENCIAS 911
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31679
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO PARANORMAL" tvg-logo="http://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MUNDO PARANORMAL
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31680
+#EXTINF:-1 tvg-id="" tvg-name="MISTERIO SIN RESOLVER 2" tvg-logo="http://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MISTERIO SIN RESOLVER 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31681
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO VIAJERO" tvg-logo="http://images.pluto.tv/channels/60511efd71ec430007f50d97/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MUNDO VIAJERO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31682
+#EXTINF:-1 tvg-id="" tvg-name="EL CONQUISTADOR DEL FIN" tvg-logo="https://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", EL CONQUISTADOR DEL FIN
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31683
+#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="http://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", CBS REALITY
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31684
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO GEEK" tvg-logo="http://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MUNDO GEEK
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31685
+#EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MASTER CHEF
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31686
+#EXTINF:-1 tvg-id="" tvg-name="HELL'S KITCHEN" tvg-logo="http://images.pluto.tv/channels/60492b2794116800073e32dc/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", HELL'S KITCHEN
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31687
+#EXTINF:-1 tvg-id="" tvg-name="SONY COMEDIAS" tvg-logo="http://images.pluto.tv/channels/60492bb931054f00073c0b4e/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SONY COMEDIAS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31688
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE NOSOTRAS" tvg-logo="http://images.pluto.tv/channels/60492c67f4c48700075b5d37/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ENTRE NOSOTRAS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31689
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV" tvg-logo="http://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ESTRELLA TV
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31690
+#EXTINF:-1 tvg-id="" tvg-name="ESCAPE PERFECTO" tvg-logo="http://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ESCAPE PERFECTO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31691
+#EXTINF:-1 tvg-id="" tvg-name="NOSEY ESCANDALOS" tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NOSEY ESCANDALOS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31692
+#EXTINF:-1 tvg-id="" tvg-name="NOSEY CASOS" tvg-logo="https://images.pluto.tv/channels/5f9b005b66d1950007857df6/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NOSEY CASOS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31693
+#EXTINF:-1 tvg-id="" tvg-name="MINUTOS PARA GANAR" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MINUTOS PARA GANAR
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31694
+#EXTINF:-1 tvg-id="" tvg-name="NOSEY ESCANDALOS 2" tvg-logo="http://images.pluto.tv/channels/60492ee6375a3900079a158c/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NOSEY ESCANDALOS 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31695
+#EXTINF:-1 tvg-id="" tvg-name="NOSEY CASOS 2" tvg-logo="http://images.pluto.tv/channels/60492f6c4a4f730007ff76c5/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", NOSEY CASOS 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31696
+#EXTINF:-1 tvg-id="" tvg-name="MTV CLASSICS" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV CLASSICS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31697
+#EXTINF:-1 tvg-id="" tvg-name="MTV PRANKS" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV PRANKS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31698
+#EXTINF:-1 tvg-id="" tvg-name="MTV PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV PLUTO TV
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31699
+#EXTINF:-1 tvg-id="" tvg-name="MTV LATINO" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV LATINO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31700
+#EXTINF:-1 tvg-id="" tvg-name="MTV ORIGINALS" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV ORIGINALS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31701
+#EXTINF:-1 tvg-id="" tvg-name="MTV ORIGINALS 2" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV ORIGINALS 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31702
+#EXTINF:-1 tvg-id="" tvg-name="MTV CRIBS" tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV CRIBS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31703
+#EXTINF:-1 tvg-id="" tvg-name="MTV CRIBS 2" tvg-logo="hhttps://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV CRIBS 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31704
+#EXTINF:-1 tvg-id="" tvg-name="MTV CATFISH" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV CATFISH
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31705
+#EXTINF:-1 tvg-id="" tvg-name="MTV CATFISH 2" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV CATFISH 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31706
+#EXTINF:-1 tvg-id="" tvg-name="MTV DATING" tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV DATING
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31707
+#EXTINF:-1 tvg-id="" tvg-name="MTV EMBARAZADA A LOS 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", MTV EMBARAZADA A LOS 16
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31708
+#EXTINF:-1 tvg-id="" tvg-name="PEOPLE ARE AWESONE" tvg-logo="https://images.pluto.tv/channels/5ebac65911406400078b8993/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", PEOPLE ARE AWESONE
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31709
+#EXTINF:-1 tvg-id="" tvg-name="ARCHIVOS FORENSES" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ARCHIVOS FORENSES
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31710
+#EXTINF:-1 tvg-id="" tvg-name="ARCHIVOS FBI" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ARCHIVOS FBI
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31711
+#EXTINF:-1 tvg-id="" tvg-name="THE NEWS DETECTIVES" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", THE NEWS DETECTIVES
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31712
+#EXTINF:-1 tvg-id="" tvg-name="WIPEOUT" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", WIPEOUT
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31713
+#EXTINF:-1 tvg-id="" tvg-name="EMPEÑOS A LO BESTIA" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", EMPEÑOS A LO BESTIA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31714
+#EXTINF:-1 tvg-id="" tvg-name="TV HUMOR" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV HUMOR
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31715
+#EXTINF:-1 tvg-id="" tvg-name="LATIN ANGELS" tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", LATIN ANGELS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31716
+#EXTINF:-1 tvg-id="" tvg-name="SIN TETAS NO HAY PARAISO" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", SIN TETAS NO HAY PARAISO
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31717
+#EXTINF:-1 tvg-id="" tvg-name="TV DEPORTES" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV DEPORTES
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31718
+#EXTINF:-1 tvg-id="" tvg-name="TV PELEAS" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV PELEAS
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31719
+#EXTINF:-1 tvg-id="" tvg-name="STADIUM" tvg-logo="https://images.pluto.tv/channels/59974b6d7ec5063cb56f24c9/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", STADIUM
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31720
+#EXTINF:-1 tvg-id="" tvg-name="TV VELOCIDAD" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV VELOCIDAD
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31721
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE WORLD" tvg-logo="https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", COMBATE WORLD
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31722
+#EXTINF:-1 tvg-id="" tvg-name="ALL ELITE WRESTLING" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", ALL ELITE WRESTLING
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31723
+#EXTINF:-1 tvg-id="" tvg-name="LUCHA LIBRE AAA" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", LUCHA LIBRE AAA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31724
+#EXTINF:-1 tvg-id="" tvg-name="LUCHA LIBRE AAA 2" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", LUCHA LIBRE AAA 2
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31725
+#EXTINF:-1 tvg-id="" tvg-name="IMPACT WRESTLING" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", IMPACT WRESTLING
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31726
+#EXTINF:-1 tvg-id="" tvg-name="PRO WRESTLING" tvg-logo="https://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", PRO WRESTLING
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31727
+#EXTINF:-1 tvg-id="" tvg-name="BELLATOR MMA" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", BELLATOR MMA
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31728
+#EXTINF:-1 tvg-id="" tvg-name="TV FIGHT" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="⭐️ Pluto Mexico", TV FIGHT
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/31729
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfC9LB4iGKZBEiBZFW2GQ7BxEw_9skml7W1w&usqp=CAU" group-title="✅ 24/7 VIP", los magnificos
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49181
