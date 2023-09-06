@@ -221,6 +221,19 @@ http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1910
 #EXTINF:-1 tvg-id="WarnerChannelAndes.co" tvg-name="Warner Channel " tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhD5_n5S5j-wX8aBoeEa01hH5seOouUF6qq9fywQN1qkyOSwa2NDGYh9RlSmD894kSgjT2MM63bTnfj0HIfLX8Nw3lo_K16-L58twmGr62CRDiY_fVjFOH-Ah8d_Rs4f_OF62nHKSQlVcxqxUjT62Br_KNf1F1RJ-p4Dfa8CNsCKdffmTXClOQThy69=w320-h285" group-title="⭐️ Cine Premium",CINE| Warner Channel 
 http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1911
 
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="⭐️ Argentina",AR | CANAL 13
+http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/15445
+#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE HD" tvg-logo="https://yt3.ggpht.com/uaMgzd4i0iGHxpaBRJVYFYRpWBWBqDJdhysytSXMKvtEo1AsLWj1KIqaMWzMP8q-8MCHRq-_UQ=s900-c-k-c0x00ffffff-no-rj" group-title="⭐️ Argentina",AR | TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="⭐️ Argentina",AR | EL NUEVE
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3202
+#EXTINF:-1 tvg-id="" tvg-name="AR | CRONICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS619rFtDshN8O4amoNWa80do2ZRKTN1SD1Cw&usqp=CAU" group-title="⭐️ Argentina",AR | encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 Rosario | AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGMSET6RHnWoA35dkoYNyGW15c_69ah6cDQA&usqp=CAU" group-title="⭐️ Argentina",AR | la nacion
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUP4mq8iX9PCNUlmI6t4oCDj7OL_eIhHXyBw&usqp=CAU" group-title="⭐️ Argentina",AR | A24
+http://1tv41.icu:8080/Py5zFZ/363334/164881
+
 #EXTINF:-1 tvg-id="" tvg-name="PE| WILLAX  SD" tvg-logo="http://streamgo.vip:8008/images/44bd3e67a5fbcfec643ec4411ce8f5af.png" group-title="⭐️ PERÚ",PE| WILLAX  
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmikdcDP8Dr7LbWTb-SQXoffni17ufVUq7xJCZAHj9-YT)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
